@@ -4,11 +4,12 @@ async function sub(client) {
 
   global.subBots = new SubBots(client.commandSystem)
   
-  SubBots.pariCode("ABCD1234") // Pairing
+  SubBots.pariCode("ABDO1234") // Pairing
  
   const { config } = client;
 
- 
+
+  
   await global.subBots.setConfig({
     commandsPath: config.commandsPath || './plugins',
     owners: config.owners,
@@ -18,7 +19,7 @@ async function sub(client) {
   });
 
   global.subBots.on('error', (uid, error) => {
-    console.error(`❌ [SubBot ${uid}] Error:`, error?.message || error);
+    console.error(`❌ [SubBot ${uid}] Error:`, error?.message || Error);
   });
 
   const loadedCount = await global.subBots.load();
