@@ -4,8 +4,8 @@
   <img src="https://i.pinimg.com/originals/e2/21/20/e221203f319df949ee65585a657501a2.jpg" alt="IMAGE" width="500"/>
   
   [![GitHub](https://img.shields.io/badge/GitHub-VENi-blue?style=for-the-badge&logo=github)](https://github.com/deveni0)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201554582851)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+201141004467)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LBXqJXi4o8Z0H77i0RwSKN)
  
   
   **A simple WhatsApp bot with a framework [MeowSab](https://github.com/deveni0/ws)** 
@@ -53,13 +53,13 @@ npm start
 
 <h4>
 
-**For support, contact the developer [here](https://wa.me/201023727053?text=عند+مشكله)**  
+**For support, contact the developer [here](https://wa.me/+201141004467?text=عند+مشكله)**  
 **Discount code:** `veni`
 
 </h4>
 
 [![Website](https://img.shields.io/badge/Website-Cavirox-orange?style=for-the-badge&logo=website)](https://cavirox.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-blue?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb7YDnD0gcfA4FhQrp1D)
+[![WhatsApp](https://chat.whatsapp.com/LBXqJXi4o8Z0H77i0RwSKN)](https://whatsapp.com/channel/0029VbCvb568fewqFvpAoh2t)
  
 
 </div>
